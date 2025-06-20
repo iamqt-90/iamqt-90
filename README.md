@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 **Third Year Engineering Student**  
+🎓 **Third Year Computer (AI and DS) Engineering Student**  
 🔧 Currently building cool stuff in **Web Development** & **Generative AI**  
 🌐 Tech Stack: **FARM** (FastAPI, React, MongoDB, Tailwind)  
 📊 Eager to dive into the world of **Data Analytics**  
